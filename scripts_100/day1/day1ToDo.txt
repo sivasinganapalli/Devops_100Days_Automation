@@ -1,0 +1,1 @@
+Write a shell script to automate the creation of a directory structure.
