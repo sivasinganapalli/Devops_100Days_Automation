@@ -1,0 +1,1 @@
+Write a script to automate the installation of common development tools.
