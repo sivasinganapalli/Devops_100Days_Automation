@@ -1,0 +1,1 @@
+Create a script to fetch weather information from an API and display it on the terminal.
