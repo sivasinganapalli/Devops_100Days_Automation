@@ -1,0 +1,1 @@
+Create a script to parse log files and extract specific information (e.g., error count).
