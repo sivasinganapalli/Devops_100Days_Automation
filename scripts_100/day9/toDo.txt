@@ -1,0 +1,2 @@
+Create a script to generate a random password and store it securely.
+
