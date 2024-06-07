@@ -1,0 +1,1 @@
+Write a script to automate the installation and configuration of a LAMP stack (Linux, Apache, MySQL, PHP).
